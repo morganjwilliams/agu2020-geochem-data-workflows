@@ -1,0 +1,20 @@
+name: agu2020-geochemdataworkflows
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python>=3.7
+  - pip
+  - umap-learn
+  - voila
+  - ipympl
+  - ipyvolume
+  - widgetsnbextension
+  - imagemagick
+  - nodejs # if using ipyvolume and lab
+  - jupyterlab
+  - pip:
+      - jupyter_contrib_nbextensions
+      - -e git+git://github.com/morganjwilliams/pyrolite.git@develop#egg=pyrolite[skl]
