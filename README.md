@@ -1,6 +1,7 @@
 # Reproducible Geochemical Data Analysis Workflows with pyrolite
 
 [![License: MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/morganjwilliams/agu2020-geochem-data-workflows/blob/main/LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4320223.svg)](https://doi.org/10.5281/zenodo.4320223)
 
 This is a Binder-enabled repository to accompany the poster
 ["Reproducible Geochemical Data Analysis Workflows with pyrolite"](
